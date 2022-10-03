@@ -8,7 +8,7 @@ Form validation
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Form validation** [Live Link]
+# **Form validation** [Live Link](https://formvalidation-1.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about function
